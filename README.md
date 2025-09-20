@@ -19,7 +19,7 @@ This section will grow weekly as I progress through my learning roadmap.
 | Project | Description |
 |---|---|
 | [Home Lab Setup](https://github.com/briankimathigikunda/My-Security-Journey) | Documentation and scripts for configuring my penetration testing lab environment. |
-| [Python Security Scripts](https://github.com/briankimathigikunda/Python-Security-Scripts) | A collection of scripts for tasks like network scanning and log analysis. *(Coming Soon)* |
+| [Python Security Scripts](https://github.com/briankimathigikunda/My-Security-Journey/Python-Security-Scripts) | A collection of scripts for tasks like network scanning and log analysis. *(Coming Soon)* |
 
 **📝 Latest Write-Ups**
 *   [Why Ethics is the First Tool in an Ethical Hacker's Kit](https://github.com/briankimathigikunda/My-Security-Journey) - My thoughts on the Kenyan Computer Misuse Act.
